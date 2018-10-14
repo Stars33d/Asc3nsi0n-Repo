@@ -1,0 +1,123 @@
+Module Mods
+- addons.xml - changed addon id to 'script.module.xxx-o-dus' / renamed addon folder 
+- default.py - disabled line#16 - firstStart.run()
+- resources/lib/modules/menus.py - changed 'mainmenu()' to mode '99' / changed 'tubes()' to mode '0'
+- resources/lib/modules/menus.py - replaced all 'kodi.giveColor(i[0],'white')' with 'i[0]'
+- resources/settings.xml - removed all 'COLOR'
+
+Version: 4.00.006
+
+--- Merged with plugin.video.xxx-o-dus v4.00.006 (all but default.py + menus.py
+
+-----------------------------------------
+
+Version: 4.00.003
+
+Fixed ::
+
+WatchXXXFree
+
+Added ::
+
+YoungPornVideos.com
+Javhihi.com
+
+-----------------------------------------
+
+Version: 4.00.002
+
+Fixed Broken Resolvers by bypassing XXX Module and self resolving
+
+FIXED ::
+
+XTheatre
+StreamingPorn
+3Movs
+faquer
+Hclips
+Nxgx
+Porn.com
+PornDig
+Pornilly
+RedTube
+Youporn
+XHamster
+XnXX
+Youjizz
+
+-----------------------------------------
+Version: 3.00.030
+
+--- Fix XXXODUS Downloader.
+--- Fix YouPorn
+
+-----------------------------------------
+Version: 3.00.029
+
+--- Change GitHub Issues location to Colossal.
+
+-----------------------------------------
+Version: 3.00.028
+
+--- Fix issue with history.
+
+-----------------------------------------
+Version: 3.00.027
+
+--- Fix CM issue with search (Thanks to UWC Dev for fix)
+--- Added Kodi Ver, Build, Lang and Python Version to Debug menu.
+
+-----------------------------------------
+Version: 3.00.026
+
+--- Fix Chaturbate.
+--- Fix Spankbang.
+--- Added Parental timeout setting to Settings.
+
+-----------------------------------------
+Version: 3.00.025
+
+--- Added dependency versions as menu item. (Important for debug)
+--- Fix issue in adult resolver.
+--- Added Pornilly to Tubes.
+
+-----------------------------------------
+Version: 3.00.024
+
+--- Added PandaMovies to Movies.
+--- Added Fuqer to Tubes.
+--- Added DaftPorn to Fetish.
+--- Code changes (misc)
+
+-----------------------------------------
+Version: 3.00.023
+
+--- Option to save view mode via context menu.
+--- Added Spreadporn to Movies.
+--- Added Girlfriend Videos to Tubes.
+--- Chaturbate view type added to settings.
+
+-----------------------------------------
+Version: 3.00.022
+
+--- Fix broken player.
+
+-----------------------------------------
+Version: 3.00.021
+
+--- Added Changelog section to main menu.
+--- Added Movies section to main menu.
+--- Fixed Watchxxxfree.
+--- Fixed Streamingporn Movies.
+--- Fixed Vintage.
+--- Added SexVR to Virtual Reality.
+--- Added Xtheatre to Movies.
+
+-----------------------------------------
+Version: 3.00.020
+
+--- Added Javtasty
+--- Added Virtual Reality Section
+--- Added Smash VR
+
+-----------------------------------------

@@ -1,0 +1,21 @@
+v1.2.0
+- removed urls / setview fix
+
+v1.0.4
+- leia support
+
+v1.0.3
+- adult > categories - setview to list
+
+v1.0.2
+- renamed add-on Ascension (removed 'Module')
+- renamed top music > top singles
+- renamed top singles categories (removed 'UK' label)
+- moved xxx next button to end of list
+- fixed 24/7 TV (twentyfourseven)
+
+v1.0.1
+- merge with SHub Module v7.8
+
+v1.0.0
+- Initial Release

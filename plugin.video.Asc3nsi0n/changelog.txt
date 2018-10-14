@@ -1,0 +1,37 @@
+
+- todo - fix playmenu busy dialog bug!
+
+
+v4.2.0
+(10-12-2018)
+- fixed traktauth in settings
+(10-11-2018)
+- fixed artpath
+(09-15-2018)
+- forked Placenta v1.4.2 / Module v1.7.2
+- renamed addon to Ascension
+- merged with previous Asc3nsi0n v4.1.21 (not complete)
+- added new artwork
+- rearranged nav menus
+- added regex module / modified to be local (Asc3nsi0n.py)
+- added messages module
+- added/modified sources dialog / debrid color
+- added Urlresolver support (optional)
+- added Neptune Rising modules (modules2)
+- added Provider/Autoplay options with Universal Scraper support
+- added Adult Area with password setting
+- added Asc3nsion module & XXX-O-DUS Module support (xxxodus/xvideos)
+- added Sports section with network art (lazyman)
+- added Provider types - debrid, yoda, exodus, custom (see 'Providers Language/Type' setting)
+- added Speedtest to Tools
+- added Playlists to Movie section (imdb)
+- added Movie Mosts + Movie Bests
+- added Actors to Movie/TV
+- added Lambda scraper support
+- added playmenu module
+- added localXML & remoteXML actions / fixed ytplaylists
+
+
+v4.0.0 - v4.1.21
+(07-07-2017 to 08-28-2018)
+- see previous changelog

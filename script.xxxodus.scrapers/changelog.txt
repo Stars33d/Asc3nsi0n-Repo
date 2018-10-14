@@ -1,0 +1,3 @@
+vC.2.00.009
+(08-22-2018)
+- modified all labels - plugin.video.xxx-o-dus to script.module.xxx-o-dus
